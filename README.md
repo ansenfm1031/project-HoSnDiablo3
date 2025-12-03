@@ -6,7 +6,9 @@
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/49007db3-36dc-41e1-9108-4d3b533077c3" />
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/196c82c0-f9ab-492f-8d6f-32bc8e3256d8" />
 
-3D 쿼터뷰 액션 RPG
+3D 쿼터뷰 액션 RPG  
+9개의 교체 가능한 플레이어블 캐릭터  
+5개의 스테이지 / 9개의 일반 몬스터 / 5개의 보스 몬스터
 
 - 함수포인터배열을 이용한 FSM 구현 / 플레이어와 몬스터 AI 구현
 - 프로토타입 패턴
